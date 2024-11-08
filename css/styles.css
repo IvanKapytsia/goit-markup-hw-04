@@ -330,7 +330,15 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.team-mamber-soc-link:hover,
+.team-mamber-soc-link:focus {
   background-color: #404bbf;
+}
+
+.team-member-soc-img {
+  fill: #f4f4fd;
 }
 
 /*Our Portfolio*/
